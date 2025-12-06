@@ -1,0 +1,8 @@
+{
+  "name": "NurseEDU AR: Shared Decision Making",
+  "description": "An educational AR simulation for nurses focusing on Module 3: High-Difficulty Clinical Communication scenarios.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
